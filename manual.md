@@ -17,3 +17,23 @@ If you’re viewing someone else’s pad, you can log in and click “Fork” to
 ## Sharing examples
 
 For  the initial launch, we don’t have a site for browsing and sharing pads. We hope people will discover pads through links around the internet, from package READMEs, documentation, and tutorials. However, to make it a bit easier we’ve put up a repository where you can send a PR with a link and description for your pad to share it with the world! See it here:
+
+## Code
+
+The code you write in Launchpad runs in Node.js 4 on Auth0 Extend (you might know this as Webtask), and is compiled with Babel so that you can use modern JavaScript features. So that you don't have to write any server boilerplate, you can just export the following things from the module:
+
+### `schema`
+
+A GraphQL.js schema object. You can write this directly by hand, or use a package like `graphql-tools` to generate it.
+
+### `context`
+
+A function that generates a context object from the request headers and pad secrets. It can return an object or a promise that resolves to an object.
+
+### `rootValue`
+
+An object that is passed in as the parent object in the resolvers on the root Query and Mutation types.
+
+## npm dependencies
+
+You can use any dependencies from `npm` in your pad. Just import from any package, and when the code is deployed our server will automatically include the newest versions of those packages for you.
