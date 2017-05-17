@@ -1,4 +1,4 @@
-# Launchpad User Manual
+# Launchpad Documentation
 
 All of your questions about Launchpad, answered.
 
