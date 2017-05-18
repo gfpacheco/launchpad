@@ -10,5 +10,6 @@ Read the [documentation](docs.md) to learn the ins and outs of Launchpad!
 - [Star Wars API](https://launchpad.graphql.com/mpjk0plp9) - the Star Wars API you know and love from GraphQL.org.
 - [graphql-iso-date](https://launchpad.graphql.com/vkvpvznr3) - example code for a package that makes encoding dates in different ways easy.
 - [Full-stack GraphQL + React tutorial server](https://launchpad.graphql.com/rwrz11zrn) - the result of step 2 of the excellent [Full-stack GraphQL + React tutorial](https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b)
+- [GraphQL.js code sample with mutation](https://launchpad.graphql.com/98lpqv3rr) - the basic code sample of a mutation from [this page on GraphQL.org](http://graphql.org/graphql-js/mutations-and-input-types/)
 
 Send a PR to add more examples here!
