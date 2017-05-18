@@ -1,6 +1,6 @@
 # awesome-launchpad
 
-[Read the documentation to learn the ins and outs of Launchpad](docs.md)
+Read the [documentation](docs.md) to learn the ins and outs of Launchpad!
 
 ## List of pads
 
