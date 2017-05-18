@@ -14,5 +14,6 @@ Read the [documentation](docs.md) to learn the ins and outs of Launchpad!
 - [graphql-iso-date](https://launchpad.graphql.com/vkvpvznr3) - example code for a package that makes encoding dates in different ways easy.
 - [Full-stack GraphQL + React tutorial server](https://launchpad.graphql.com/rwrz11zrn) - the result of step 2 of the excellent [Full-stack GraphQL + React tutorial](https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b)
 - [GraphQL.js code sample with mutation](https://launchpad.graphql.com/98lpqv3rr) - the basic code sample of a mutation from [this page on GraphQL.org](http://graphql.org/graphql-js/mutations-and-input-types/)
+- [Movie Recommendations with Neo4j](https://launchpad.graphql.com/3wzp7qnjv) - a simple movie schema with recommendations, backed by Neo4j graph database
 
 Send a PR to add more examples here!
