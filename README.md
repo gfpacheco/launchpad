@@ -8,6 +8,7 @@ Read the [documentation](docs.md) to learn the ins and outs of Launchpad!
 
 - [Hello World!](https://launchpad.graphql.com/new) - a super simple schema with one field, that just returns `"Hello, world!"`
 - [Relational data: Authors and posts](https://launchpad.graphql.com/1jzxrj179) - a more complex schema that has related objects that can be fetched in a nested query.
+- [Simple Mocking with graphql-tools](https://launchpad.graphql.com/98lq7vz8r) - a simple example of using the default mocking in graphql-tools to create realistic mocked data in seconds.
 - [Loading from a MongoDB database](https://launchpad.graphql.com/vkmr1kl83) - an example of reading from a remote data source, in this case MongoDB.
 - [Social Login with Auth0](https://launchpad.graphql.com/n4xk8xm87) - Authentication via JWT and social login
 - [Star Wars API](https://launchpad.graphql.com/mpjk0plp9) - the Star Wars API you know and love from GraphQL.org.
