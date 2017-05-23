@@ -17,6 +17,6 @@ Read the [documentation](docs.md) to learn the ins and outs of Launchpad!
 - [GraphQL.js code sample with mutation](https://launchpad.graphql.com/98lpqv3rr) - the basic code sample of a mutation from [this page on GraphQL.org](http://graphql.org/graphql-js/mutations-and-input-types/)
 - [Movie Recommendations with Neo4j](https://launchpad.graphql.com/3wzp7qnjv) - a simple movie schema with recommendations, backed by Neo4j graph database
 - [Current Weather at any location](https://launchpad.graphql.com/5rrx10z19) - Get the current weather at any location through Google Maps API geocoding and the Dark Sky weather API!
-- [Many To Many And One To Many Relationships](https://launchpad.graphql.com/4nqqqmr19) - example showing how to implement many to many and one to one relationships the easy way
+- [One To Many And One To One Relationships](https://launchpad.graphql.com/4nqqqmr19) - example showing how to implement one to many and one to one relationships the easy way
 
 Send a PR to add more examples here!
