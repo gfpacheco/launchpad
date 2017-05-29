@@ -1,5 +1,7 @@
 # awesome-launchpad
 
+Test 2
+
 Read the [announcement post](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba) to understand the goals of the project.
 
 Read the [documentation](docs.md) to learn the ins and outs of Launchpad!
