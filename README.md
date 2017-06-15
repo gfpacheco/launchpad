@@ -21,5 +21,19 @@ Read the [documentation](docs.md) to learn the ins and outs of Launchpad!
 - [Spotify API with Expo Snack UI](https://launchpad.graphql.com/pjwnq05l0) - how to fetch from the Spotify REST API with GraphQL, and then display it in a [React Native UI](https://snack.expo.io/ry2l_IXZW).
 - [RSVP management for events](https://launchpad.graphql.com/4nq37v3x9) - Shows multiple query mutations per Mutation type, as well as querying deeply nested data.
 
-
 Send a PR to add more examples here!
+
+## Ideas for examples
+
+- Regular SQL
+- SQL with [Join Monster](https://github.com/stems/join-monster)
+- [DataLoader](https://github.com/facebook/dataloader) for batching and caching
+- Pagination with skip/limit
+- Pagination with cursor per page
+- Pagination with GraphQL connections
+- Mutations with complex input objects
+- Mutation with input validation
+- GRPC
+- MongoDB with Mongoose
+
+Send a PR with more ideas!
