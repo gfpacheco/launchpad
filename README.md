@@ -20,7 +20,7 @@ Read the [documentation](docs.md) to learn the ins and outs of Launchpad!
 - [One To Many And One To One Relationships](https://launchpad.graphql.com/4nqqqmr19) - example showing how to implement one to many and one to one relationships the easy way
 - [Spotify API with Expo Snack UI](https://launchpad.graphql.com/pjwnq05l0) - how to fetch from the Spotify REST API with GraphQL, and then display it in a [React Native UI](https://snack.expo.io/ry2l_IXZW).
 - [RSVP management for events](https://launchpad.graphql.com/4nq37v3x9) - Shows multiple query mutations per Mutation type, as well as querying deeply nested data.
-- [npm package information](https://www.npmjs.com/package/api-npm) – Fetch basic npm package information, as well as download counts aggregated over various intervals (day, week, or month)
+- [npm package information](https://launchpad.graphql.com/8jn944xzq) – Fetch basic npm package information, as well as download counts aggregated over various intervals (day, week, or month)
 
 Send a PR to add more examples here!
 
